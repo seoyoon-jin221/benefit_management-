@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "benefits-company",
+    "staging": "benefits-company",
+    "benefits": "benefits-company"
+  }
+}
